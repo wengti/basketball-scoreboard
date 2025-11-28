@@ -15,5 +15,5 @@ A basketball scoreboard that can be used for keeping track of scores and the gam
     - Provides buttons to switch between quarters which also serve as an indicator of the current quarter.
     - Provides a button to pause or resume the timer.
 
-### Getting Started
+## Getting Started
 Visit the website [here](https://basketball-scoreboard-wengti.netlify.app/)
