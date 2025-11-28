@@ -16,4 +16,4 @@ A basketball scoreboard that can be used for keeping track of scores and the gam
     - Provides a button to pause or resume the timer.
 
 ### Getting Started
-Visit the website [here]()
+Visit the website [here](https://basketball-scoreboard-wengti.netlify.app/)
