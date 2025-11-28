@@ -3,11 +3,15 @@
     font-family: timer;
 }
 
-@font-face {
+/* @font-face {
     src: url("./font/enhanced-led-board-7/enhanced_led_board-7.ttf");
     font-family: scoreboard-text;
-}
+} */
 
+@font-face {
+    src: url("./font/DangerOnTheMotorway-xV10");
+    font-family: scoreboard-text;
+}
 
 
 body {
